@@ -1,0 +1,12 @@
+[user]
+	name = Le Hoang Huy
+	email = lehoanghuy@datanext.co.jp
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = input
+	editor = code --wait
+[pull]
+	rebase = false
+[push]
+	default = simple

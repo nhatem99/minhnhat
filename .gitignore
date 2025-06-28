@@ -1,0 +1,73 @@
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# User-specific files
+.viminfo
+.lesshst
+.mysql_history
+.zsh_history
+.zsh_sessions/
+.zshrc
+.zprofile
+.zcompdump
+
+# NPM
+.npm/
+.node_repl_history
+
+# NVM
+.nvm/
+
+# VS Code
+.vscode/extensions/
+.vscode/logs/
+.vscode/user-data/
+.vscode/argv.json
+
+# Docker
+.docker/
+
+# Composer
+.composer/
+
+# Config
+.config/
+
+# Kube
+.kube/
+
+# Windsurf
+.windsurf/
+
+# User directories (usually not tracked)
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Desktop/
+
+# Trash
+.Trash/
+
+# SSH - exclude private keys but allow config
+.ssh/id_*
+.ssh/known_hosts
+.ssh/authorized_keys
+
+# Allow .ssh/config to be tracked if needed
+# .ssh/config
+
+# Any docker-compose files in home
+docker-compose.yml
+
+# VS Code - allow settings but exclude extensions
+.vscode/extensions/
+.vscode/logs/
+.vscode/user-data/
+.vscode/argv.json
+# Allow .vscode/settings.json to be tracked
