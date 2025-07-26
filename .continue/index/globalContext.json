@@ -1,0 +1,22 @@
+{
+  "isSupportedLanceDbCpuTargetForLinux": true,
+  "lastSelectedProfileForWorkspace": {
+    "file:///Users/lehoanghuy/Desktop/untitled%20folder:::personal": "huy-le-hoang/huy-le-hoang-first-assistant",
+    "file:///Users/lehoanghuy/Desktop/cross%20build/cross-neo-devkit/projects/cross-kanri:::personal": "huy-le-hoang/huy-le-hoang-first-assistant"
+  },
+  "lastSelectedOrgIdForWorkspace": {
+    "file:///Users/lehoanghuy/Desktop/untitled%20folder": "personal",
+    "file:///Users/lehoanghuy/Desktop/cross%20build/cross-neo-devkit/projects/cross-kanri": "personal"
+  },
+  "selectedModelsByProfileId": {
+    "huy-le-hoang/huy-le-hoang-first-assistant": {
+      "chat": "Claude 3.7 Sonnet",
+      "edit": "Claude 3.7 Sonnet",
+      "apply": "Claude 3.5 Haiku",
+      "embed": "voyage-code-3",
+      "autocomplete": "Codestral",
+      "rerank": "Voyage AI rerank-2",
+      "summarize": null
+    }
+  }
+}
