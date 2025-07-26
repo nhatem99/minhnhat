@@ -29,5 +29,6 @@
       "rerank": null,
       "summarize": null
     }
-  }
+  },
+  "failedDocs": []
 }
