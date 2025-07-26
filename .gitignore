@@ -1,0 +1,27 @@
+# Cache directories
+.cache/
+node_modules/
+.continue/
+
+# Large files
+*.sqlite
+*.db
+
+# Puppeteer cache
+.cache/puppeteer/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+dist/
+build/
