@@ -2,11 +2,13 @@
   "isSupportedLanceDbCpuTargetForLinux": true,
   "lastSelectedProfileForWorkspace": {
     "file:///Users/lehoanghuy/Desktop/untitled%20folder:::personal": "huy-le-hoang/huy-le-hoang-first-assistant",
-    "file:///Users/lehoanghuy/Desktop/cross%20build/cross-neo-devkit/projects/cross-kanri:::personal": "huy-le-hoang/huy-le-hoang-first-assistant"
+    "file:///Users/lehoanghuy/Desktop/cross%20build/cross-neo-devkit/projects/cross-kanri:::personal": "huy-le-hoang/huy-le-hoang-first-assistant",
+    "file:///Users/lehoanghuy/Desktop/crawl%20car/cross-crawl-bot:::personal": "huy-le-hoang/huy-le-hoang-first-assistant"
   },
   "lastSelectedOrgIdForWorkspace": {
     "file:///Users/lehoanghuy/Desktop/untitled%20folder": "personal",
-    "file:///Users/lehoanghuy/Desktop/cross%20build/cross-neo-devkit/projects/cross-kanri": "personal"
+    "file:///Users/lehoanghuy/Desktop/cross%20build/cross-neo-devkit/projects/cross-kanri": "personal",
+    "file:///Users/lehoanghuy/Desktop/crawl%20car/cross-crawl-bot": "personal"
   },
   "selectedModelsByProfileId": {
     "huy-le-hoang/huy-le-hoang-first-assistant": {
@@ -16,6 +18,15 @@
       "embed": "voyage-code-3",
       "autocomplete": "Codestral",
       "rerank": "Voyage AI rerank-2",
+      "summarize": null
+    },
+    "local": {
+      "chat": null,
+      "edit": null,
+      "apply": null,
+      "embed": "Transformers.js (Built-In)",
+      "autocomplete": null,
+      "rerank": null,
       "summarize": null
     }
   }
